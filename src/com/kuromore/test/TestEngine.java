@@ -10,6 +10,12 @@ public class TestEngine {
 		System.out.println("test..");
 		System.out.println("test.");
 		System.out.println("master");
+
+		int count = 1;
+
+		for(int i = 0 ; i < 4 ; i ++) {
+			System.out.println("loop" + count);
+		}
 	}
 
 }
