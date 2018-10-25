@@ -16,6 +16,9 @@ public class TestEngine {
 		for(int i = 0 ; i < 4 ; i ++) {
 			System.out.println("loop" + count);
 		}
+		System.out.println("test_three");
+
+		System.out.println("test four");
 	}
 
 }
