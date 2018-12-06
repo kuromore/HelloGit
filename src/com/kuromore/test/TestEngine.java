@@ -13,6 +13,8 @@ public class TestEngine {
 
 		int count = 1;
 
+		int test = 2;
+
 		for(int i = 0 ; i < 4 ; i ++) {
 			System.out.println("loop" + count);
 		}
